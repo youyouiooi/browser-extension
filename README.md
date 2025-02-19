@@ -1,1 +1,1 @@
-# browser-extension
+# AI让一切都变得简单
